@@ -7,7 +7,7 @@
   "scripts": {
     "build": "npx rollup -c"
   },
-  "keywords": [],
+  "keywords": ["react","scroll-to-top","scroll","button","goToTop","ScrollToTop"],
   "author": "",
   "license": "ISC",
   "description": "",
