@@ -1,6 +1,6 @@
 {
   "name": "scroll-totop-button",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "type": "module",
   "types": "dist/index.d.ts",
@@ -8,8 +8,9 @@
     "build": "npx rollup -c"
   },
   "keywords": ["react","scroll-to-top","scroll","button","goToTop","ScrollToTop"],
-  "author": "",
+  "author": "Malhar Chauhan",
   "license": "ISC",
+  "repository":"https://github.com/malharchauhan7/scroll-totop-button",
   "description": "",
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
